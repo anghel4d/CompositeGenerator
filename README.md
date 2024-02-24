@@ -1,0 +1,1 @@
+# This thing puts together arbitrary traits for game asset generation
